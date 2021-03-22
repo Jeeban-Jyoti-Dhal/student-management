@@ -25,6 +25,7 @@ public class StudentController {
 
 	@GetMapping("/showstudent")
 	public String studentList(Model model) {
+		System.out.println("inside studentList method");
 		// call the service method to get the data
 		List<Student> loadStudents = service.loadStudents();
 		// loadStudents.forEach(s-> {System.out.println(s);});
