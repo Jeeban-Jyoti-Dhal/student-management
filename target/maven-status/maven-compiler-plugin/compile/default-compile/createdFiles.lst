@@ -1,0 +1,8 @@
+in\ashokit\dao\StudentDaoImpl.class
+in\ashokit\service\StudentService.class
+in\ashokit\service\StudentServiceImpl.class
+in\ashokit\controllers\StudentController.class
+in\ashokit\StudentAppConfig.class
+in\ashokit\entity\Student.class
+in\ashokit\dao\StudentDao.class
+in\ashokit\StudentAppInitializer.class
